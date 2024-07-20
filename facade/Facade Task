@@ -1,0 +1,9 @@
+-Facade Exercise
+*Scenario:
+Imagine you are creating a home theater system. The system consists of several components like a DVD player, Projector, LightSystem, Screen and SoundSystem. You want to simplify the operation of these components for the user.
+
+*Task:
+Design a facade class that provides a simplified interface for using the home theater system.
+Implement the existing Projector and DVDPlayer classes.
+Create a Home TheaterFacade class that simplifies turning on the system to watch a movie and turning it off when done.
+Demonstrate the usage of the facade in a sample application.
